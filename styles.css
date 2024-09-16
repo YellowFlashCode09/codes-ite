@@ -108,5 +108,5 @@ p {
     border-radius: 10px; /* Rounds the corners of the image */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Adds a shadow for better visual separation */
     object-fit: cover; /* Crops and scales the image to cover the area */
-    margin: 0 auto; /* Centers the image horizontally */
+    margin: 0 auto; /* Centers the image horizontally. */
 }
